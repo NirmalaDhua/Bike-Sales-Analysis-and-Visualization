@@ -1,5 +1,5 @@
 # Bike-Sales-Analysis-and-Visualization
-
+![image](https://github.com/user-attachments/assets/17868431-5dd2-4247-8314-e9917ff96dcd)
 🎯 Goal
 
 
