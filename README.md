@@ -100,13 +100,17 @@ Recommended targeting untapped demographics to boost revenue.
 
 📷 Visualizations
 📈 Line Chart: Revenue vs. Profit Trends
+![image](https://github.com/user-attachments/assets/9acf3341-a55c-40d4-9d6f-8c90b4e89d5f)
+
 image
 
 📊 Bar Chart: Revenue Distribution by Country
-image
+image![image](https://github.com/user-attachments/assets/4cd0961a-d277-48d6-9e8d-63905a54a047)
+
 
 🥧 Pie Chart: Revenue Contribution by Age Group
-image
+image![image](https://github.com/user-attachments/assets/a7e4b0a2-e946-4c14-a580-1bd0cc16a000)
+
 
 📌 Conclusion
 This project demonstrates how Excel PivotTables and visualizations can turn raw data into meaningful insights. The analysis enables better decision-making by highlighting profitable markets, underperforming segments, and untapped opportunities.
