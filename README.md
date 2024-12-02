@@ -22,8 +22,7 @@ Insights into the most profitable markets and underperforming segments.
 Visualizations, including bar charts, pie charts, and line charts, to support understanding and decision-making.
 
 
-
-🛠️ Skills
+#🛠️ Skills
 📊 Data Analysis
 🔄 PivotTables
 📈 Data Visualization
